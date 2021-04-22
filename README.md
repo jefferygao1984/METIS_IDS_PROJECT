@@ -4,6 +4,8 @@
 
 ## HEADING 2
 
+### HEADING 3
+
 **BOLD TEXT**
 
 * DOT POINT 1
