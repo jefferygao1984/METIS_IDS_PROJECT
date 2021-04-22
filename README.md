@@ -29,7 +29,7 @@
 
 
 ### QUAD REGIMES
-![image](https://user-images.githubusercontent.com/82639124/115703260-40659180-a3ad-11eb-8778-a4a45cae366e.png = 250x250)
+![image](https://user-images.githubusercontent.com/82639124/115703260-40659180-a3ad-11eb-8778-a4a45cae366e.png width="100" height="100")
 
 ### SECTOR PERFORMANCES BY QUAD REGIME
 ![image](https://user-images.githubusercontent.com/82639124/115703422-760a7a80-a3ad-11eb-971c-20c653527f01.png)
