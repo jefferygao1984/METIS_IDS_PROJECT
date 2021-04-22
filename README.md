@@ -24,3 +24,6 @@
   
 * DOT POINT 2
 * DOT POINT 3
+
+
+### QUAD REGIMES
