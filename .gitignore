@@ -1,4 +1,5 @@
 # .csv, various excel formats
+.DS_Store
 *.csv
 *.xlsx
 *.xls
