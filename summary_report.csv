@@ -19,31 +19,31 @@
 17,IWF,YAHOO,ETF,iShares Russell 1000 Growth,1,0,1,0,0,ETF : IWF,539,427,497
 18,IWM,YAHOO,ETF,iShares Russell 2000,1,1,1,0,0,ETF : IWM,539,427,497
 19,MDY,YAHOO,ETF,SPDR S&P MIDCAP 400,1,1,0,0,0,ETF : MDY,539,427,497
-20,CWB,YAHOO,ETF,SPDR Bloomberg Barclays Convertible Securities,1,1,1,0,0,ETF : CWB,539,428,497
-21,HYG,YAHOO,ETF,iShares iBoxx High Yield Corporate Bond,1,1,0,0,0,ETF : HYG,539,428,497
+20,CWB,YAHOO,ETF,SPDR Bloomberg Barclays Convertible Securities,1,1,1,0,0,ETF : CWB,539,427,498
+21,HYG,YAHOO,ETF,iShares iBoxx High Yield Corporate Bond,1,1,0,0,0,ETF : HYG,539,427,498
 22,BKLN,YAHOO,ETF,Invesco Senior Loan,1,1,1,0,0,ETF : BKLN,539,427,497
-23,BIZD,YAHOO,ETF,VanEck Vectors BDC Income,1,1,1,0,0,ETF : BIZD,530,428,497
-24,FXE,YAHOO,ETF,Invesco CurrencyShares Euro Currency Trust,1,1,0,0,0,ETF : FXE,447,420,497
-25,JJC,YAHOO,ETF,iPath Series B Bloomberg Copper Subindex Total Return ETN,1,1,0,0,0,ETF : JJC,297,404,497
-26,PFF,YAHOO,ETF,iShares Preferred and Income Securities,1,0,1,0,0,ETF : PFF,539,428,497
+23,BIZD,YAHOO,ETF,VanEck Vectors BDC Income,1,1,1,0,0,ETF : BIZD,532,427,498
+24,FXE,YAHOO,ETF,Invesco CurrencyShares Euro Currency Trust,1,1,0,0,0,ETF : FXE,445,420,497
+25,JJC,YAHOO,ETF,iPath Series B Bloomberg Copper Subindex Total Return ETN,1,1,0,0,0,ETF : JJC,298,405,497
+26,PFF,YAHOO,ETF,iShares Preferred and Income Securities,1,0,1,0,0,ETF : PFF,539,427,498
 27,USO,YAHOO,ETF,United States Oil Fund,1,0,1,1,0,ETF : USO,539,427,497
 28,VNQ,YAHOO,ETF,Vanguard Real Estate Index Fund,1,0,0,1,1,ETF : VNQ,539,427,497
 29,UNG,YAHOO,ETF,United States Natural Gas Fund,1,1,0,0,0,ETF : UNG,539,427,497
-30,MUB,YAHOO,ETF,iShares National Muni Bond,1,0,0,1,0,ETF : MUB,539,428,497
-31,MBB,YAHOO,ETF,iShares MBS,1,0,0,0,1,ETF : MBB,539,428,497
-32,SHY,YAHOO,ETF,iShares 1-3 Year Treasury Bond,1,0,0,0,1,ETF : SHY,539,428,497
-33,IEF,YAHOO,ETF,iShares 7-10 Year Treasury Bond,1,0,0,0,1,ETF : IEF,539,428,497
-34,TLT,YAHOO,ETF,iShares 20+ Year Treasury Bond ETF,1,0,0,1,1,ETF : TLT,539,428,497
-35,TIP,YAHOO,ETF,iShares TIPS Bond,1,0,0,1,0,ETF : TIP,539,428,497
-36,LQD,YAHOO,ETF,iShares iBoxx $ Investment Grade Corporate Bond,1,0,0,1,0,ETF : LQD,539,428,497
-37,UDN,YAHOO,ETF,Invesco DB US Dollar Index Bearish Fund,1,0,0,1,0,ETF : UDN,342,407,497
+30,MUB,YAHOO,ETF,iShares National Muni Bond,1,0,0,1,0,ETF : MUB,539,427,498
+31,MBB,YAHOO,ETF,iShares MBS,1,0,0,0,1,ETF : MBB,539,427,498
+32,SHY,YAHOO,ETF,iShares 1-3 Year Treasury Bond,1,0,0,0,1,ETF : SHY,539,427,498
+33,IEF,YAHOO,ETF,iShares 7-10 Year Treasury Bond,1,0,0,0,1,ETF : IEF,539,427,498
+34,TLT,YAHOO,ETF,iShares 20+ Year Treasury Bond ETF,1,0,0,1,1,ETF : TLT,539,427,498
+35,TIP,YAHOO,ETF,iShares TIPS Bond,1,0,0,1,0,ETF : TIP,539,427,498
+36,LQD,YAHOO,ETF,iShares iBoxx $ Investment Grade Corporate Bond,1,0,0,1,0,ETF : LQD,539,427,498
+37,UDN,YAHOO,ETF,Invesco DB US Dollar Index Bearish Fund,1,0,0,1,0,ETF : UDN,348,407,497
 38,SDY,YAHOO,ETF,SPDR S&P Dividend,1,0,0,0,1,ETF : SDY,539,427,497
 39,QUAL,YAHOO,ETF,iShares MSCI USA Quality Factor,1,0,0,0,1,ETF : QUAL,539,427,497
 40,UUP,YAHOO,ETF,Invesco DB US Dollar Index Bullish Fund,1,0,0,0,1,ETF : UUP,531,427,497
 41,GDX,YAHOO,ETF,VanEck Vectors Gold Miners ETF,1,0,0,1,0,ETF : GDX,539,427,497
 42,GDXJ,YAHOO,ETF,VanEck Vectors Junior Gold Miners ETF,1,0,0,1,0,ETF : GDXJ,539,427,497
 43,GLD,YAHOO,ETF,SPDR Gold Trust,1,0,0,0,1,ETF : GLD,539,427,497
-44,VIXM,YAHOO,ETF,ProShares VIX Mid-Term Futures ETF,1,0,0,1,1,ETF : VIXM,492,427,497
+44,VIXM,YAHOO,ETF,ProShares VIX Mid-Term Futures ETF,1,0,0,1,1,ETF : VIXM,496,427,497
 45,VIXY,YAHOO,ETF,ProShares VIX Short-Term Futures ETF,1,0,0,1,1,ETF : VIXY,539,427,497
 46,BTC-USD,YAHOO,CRYPTO,Bitcoin USD,1,1,1,0,0,CRYPTO : BTC-USD,993,993,720
 47,ETH-USD,YAHOO,CRYPTO,Ethereum USD,1,1,1,0,0,CRYPTO : ETH-USD,993,993,720
