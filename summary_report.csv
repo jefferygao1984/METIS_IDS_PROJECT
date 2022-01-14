@@ -15,16 +15,16 @@
 13,CL=F,YAHOO,COMMODITY,Crude Oil NYM Futures,1,1,0,0,0,COMMODITY : CL=F,993,993,499
 14,SPHB,YAHOO,ETF,Invesco S&P 500 High Beta,1,1,1,0,0,ETF : SPHB,539,424,498
 15,SPLV,YAHOO,ETF,Invesco S&P 500 Low Volatility,1,0,0,0,1,ETF : SPLV,539,424,498
-16,MTUM,YAHOO,ETF,iShares MSCI USA Momentum Factor,1,1,1,0,0,ETF : MTUM,540,424,498
-17,IWF,YAHOO,ETF,iShares Russell 1000 Growth,1,0,1,0,0,ETF : IWF,540,424,498
-18,IWM,YAHOO,ETF,iShares Russell 2000,1,1,1,0,0,ETF : IWM,540,424,498
+16,MTUM,YAHOO,ETF,iShares MSCI USA Momentum Factor,1,1,1,0,0,ETF : MTUM,539,424,498
+17,IWF,YAHOO,ETF,iShares Russell 1000 Growth,1,0,1,0,0,ETF : IWF,539,424,498
+18,IWM,YAHOO,ETF,iShares Russell 2000,1,1,1,0,0,ETF : IWM,539,424,498
 19,MDY,YAHOO,ETF,SPDR S&P MIDCAP 400,1,1,0,0,0,ETF : MDY,539,424,498
 20,CWB,YAHOO,ETF,SPDR Bloomberg Barclays Convertible Securities,1,1,1,0,0,ETF : CWB,539,424,498
 21,HYG,YAHOO,ETF,iShares iBoxx High Yield Corporate Bond,1,1,0,0,0,ETF : HYG,539,424,498
 22,BKLN,YAHOO,ETF,Invesco Senior Loan,1,1,1,0,0,ETF : BKLN,539,424,498
 23,BIZD,YAHOO,ETF,VanEck Vectors BDC Income,1,1,1,0,0,ETF : BIZD,539,424,498
-24,FXE,YAHOO,ETF,Invesco CurrencyShares Euro Currency Trust,1,1,0,0,0,ETF : FXE,416,421,498
-25,JJC,YAHOO,ETF,iPath Series B Bloomberg Copper Subindex Total Return ETN,1,1,0,0,0,ETF : JJC,344,398,498
+24,FXE,YAHOO,ETF,Invesco CurrencyShares Euro Currency Trust,1,1,0,0,0,ETF : FXE,418,421,498
+25,JJC,YAHOO,ETF,iPath Series B Bloomberg Copper Subindex Total Return ETN,1,1,0,0,0,ETF : JJC,340,398,498
 26,PFF,YAHOO,ETF,iShares Preferred and Income Securities,1,0,1,0,0,ETF : PFF,539,424,498
 27,USO,YAHOO,ETF,United States Oil Fund,1,0,1,1,0,ETF : USO,539,424,498
 28,VNQ,YAHOO,ETF,Vanguard Real Estate Index Fund,1,0,0,1,1,ETF : VNQ,539,424,498
@@ -36,9 +36,9 @@
 34,TLT,YAHOO,ETF,iShares 20+ Year Treasury Bond ETF,1,0,0,1,1,ETF : TLT,539,424,498
 35,TIP,YAHOO,ETF,iShares TIPS Bond,1,0,0,1,0,ETF : TIP,539,424,498
 36,LQD,YAHOO,ETF,iShares iBoxx $ Investment Grade Corporate Bond,1,0,0,1,0,ETF : LQD,539,424,498
-37,UDN,YAHOO,ETF,Invesco DB US Dollar Index Bearish Fund,1,0,0,1,0,ETF : UDN,355,413,498
+37,UDN,YAHOO,ETF,Invesco DB US Dollar Index Bearish Fund,1,0,0,1,0,ETF : UDN,359,413,498
 38,SDY,YAHOO,ETF,SPDR S&P Dividend,1,0,0,0,1,ETF : SDY,539,424,498
-39,QUAL,YAHOO,ETF,iShares MSCI USA Quality Factor,1,0,0,0,1,ETF : QUAL,540,424,498
+39,QUAL,YAHOO,ETF,iShares MSCI USA Quality Factor,1,0,0,0,1,ETF : QUAL,539,424,498
 40,UUP,YAHOO,ETF,Invesco DB US Dollar Index Bullish Fund,1,0,0,0,1,ETF : UUP,539,424,498
 41,GDX,YAHOO,ETF,VanEck Vectors Gold Miners ETF,1,0,0,1,0,ETF : GDX,539,424,498
 42,GDXJ,YAHOO,ETF,VanEck Vectors Junior Gold Miners ETF,1,0,0,1,0,ETF : GDXJ,539,424,498
