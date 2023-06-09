@@ -24,7 +24,7 @@
 22,BKLN,YAHOO,ETF,Invesco Senior Loan,1,1,1,0,0,ETF : BKLN,539,427,497
 23,BIZD,YAHOO,ETF,VanEck Vectors BDC Income,1,1,1,0,0,ETF : BIZD,539,427,497
 24,FXE,YAHOO,ETF,Invesco CurrencyShares Euro Currency Trust,1,1,0,0,0,ETF : FXE,488,427,497
-25,JJC,YAHOO,ETF,iPath Series B Bloomberg Copper Subindex Total Return ETN,1,1,0,0,0,ETF : JJC,277,375,497
+25,JJC,YAHOO,ETF,iPath Series B Bloomberg Copper Subindex Total Return ETN,1,1,0,0,0,ETF : JJC,270,371,497
 26,PFF,YAHOO,ETF,iShares Preferred and Income Securities,1,0,1,0,0,ETF : PFF,539,427,497
 27,USO,YAHOO,ETF,United States Oil Fund,1,0,1,1,0,ETF : USO,539,427,497
 28,VNQ,YAHOO,ETF,Vanguard Real Estate Index Fund,1,0,0,1,1,ETF : VNQ,539,427,497
@@ -36,14 +36,14 @@
 34,TLT,YAHOO,ETF,iShares 20+ Year Treasury Bond ETF,1,0,0,1,1,ETF : TLT,539,427,497
 35,TIP,YAHOO,ETF,iShares TIPS Bond,1,0,0,1,0,ETF : TIP,539,427,497
 36,LQD,YAHOO,ETF,iShares iBoxx $ Investment Grade Corporate Bond,1,0,0,1,0,ETF : LQD,539,427,497
-37,UDN,YAHOO,ETF,Invesco DB US Dollar Index Bearish Fund,1,0,0,1,0,ETF : UDN,495,426,497
+37,UDN,YAHOO,ETF,Invesco DB US Dollar Index Bearish Fund,1,0,0,1,0,ETF : UDN,491,426,497
 38,SDY,YAHOO,ETF,SPDR S&P Dividend,1,0,0,0,1,ETF : SDY,539,427,497
 39,QUAL,YAHOO,ETF,iShares MSCI USA Quality Factor,1,0,0,0,1,ETF : QUAL,539,427,497
 40,UUP,YAHOO,ETF,Invesco DB US Dollar Index Bullish Fund,1,0,0,0,1,ETF : UUP,539,427,497
 41,GDX,YAHOO,ETF,VanEck Vectors Gold Miners ETF,1,0,0,1,0,ETF : GDX,539,427,497
 42,GDXJ,YAHOO,ETF,VanEck Vectors Junior Gold Miners ETF,1,0,0,1,0,ETF : GDXJ,539,427,497
 43,GLD,YAHOO,ETF,SPDR Gold Trust,1,0,0,0,1,ETF : GLD,539,427,497
-44,VIXM,YAHOO,ETF,ProShares VIX Mid-Term Futures ETF,1,0,0,1,1,ETF : VIXM,452,427,497
+44,VIXM,YAHOO,ETF,ProShares VIX Mid-Term Futures ETF,1,0,0,1,1,ETF : VIXM,457,427,497
 45,VIXY,YAHOO,ETF,ProShares VIX Short-Term Futures ETF,1,0,0,1,1,ETF : VIXY,539,427,497
 46,BTC-USD,YAHOO,CRYPTO,Bitcoin USD,1,1,1,0,0,CRYPTO : BTC-USD,993,993,723
 47,ETH-USD,YAHOO,CRYPTO,Ethereum USD,1,1,1,0,0,CRYPTO : ETH-USD,993,993,723
